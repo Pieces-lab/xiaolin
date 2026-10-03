@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">Pieces Lab 个人作品集</title>
-  <desc id="desc">深蓝色背景上的通用个人作品集封面，包含几何卡片与作品、记录、探索三个主题。</desc>
+  <title id="title">xiaolin 的个人作品集</title>
+  <desc id="desc">深蓝色背景上的 xiaolin 个人作品集封面，包含几何卡片与作品、记录、探索三个主题。</desc>
   <defs>
     <linearGradient id="background" x2="1" y2="1"><stop stop-color="#102037"/><stop offset="1" stop-color="#254866"/></linearGradient>
     <linearGradient id="card" x2="1" y2="1"><stop stop-color="#305a74"/><stop offset="1" stop-color="#183249"/></linearGradient>
@@ -11,11 +11,11 @@
   <g stroke="#bdd8d6" stroke-opacity=".12" fill="none"><path d="M760 38h385M760 95h385M760 152h385M760 209h385M760 266h385"/><path d="M790 20v290M880 20v290M970 20v290M1060 20v290"/></g>
   <g font-family="Arial,'Microsoft YaHei',sans-serif">
     <text x="55" y="60" fill="#92d1c5" font-size="15" letter-spacing="3">PIECES LAB / PERSONAL COLLECTION</text>
-    <text x="53" y="142" fill="#f6f1e5" font-size="48" font-weight="700">个人作品集</text>
-    <text x="55" y="190" fill="#c4d9df" font-size="21">介绍自己，展示作品，记录正在发生的事。</text>
+    <text x="53" y="142" fill="#f6f1e5" font-size="48" font-weight="700">xiaolin · 个人作品集</text>
+    <text x="55" y="190" fill="#c4d9df" font-size="21">用设计与代码，记录想法变成作品的过程。</text>
     <path d="M55 222h550" stroke="#91cabf" stroke-opacity=".45"/>
     <text x="55" y="266" fill="#e2ca94" font-size="16">作品 · 记录 · 探索</text>
-    <text x="55" y="304" fill="#9eb9c5" font-size="12" letter-spacing="1">MAKE IT YOURS</text>
+    <text x="55" y="304" fill="#9eb9c5" font-size="12" letter-spacing="1">MADE BY XIAOLIN</text>
     <g transform="rotate(-8 924 164)">
       <rect x="803" y="61" width="246" height="173" rx="14" fill="#0f2639" stroke="#91cabf" stroke-opacity=".25"/>
       <rect x="828" y="84" width="246" height="173" rx="14" fill="url(#card)" stroke="#b5d4d1" stroke-opacity=".35"/>
