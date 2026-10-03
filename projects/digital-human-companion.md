@@ -4,6 +4,7 @@
 
 - 状态：持续开发
 - 我的角色：项目负责人
+- 在线体验：<https://xiaolinyx.cloud/>
 - 源码与使用说明：<https://github.com/linyuchao123/digital-human-companion>
 
 ## 背景与目标

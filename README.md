@@ -1,4 +1,6 @@
-<p align="center"><b>你好，我是小林（xiaolin）。</b><br>软件工程专业在读，用设计与代码探索 AI 应用，也把日常遇到的问题做成可以使用的工具。</p>
+<p align="center"><a href="https://xiaolinyx.me/"><img src="assets/portfolio-poster.png" alt="XIAOLIN 个人作品集海报：浅紫色背景与小林人物形象" width="100%"></a></p>
+
+<p align="center"><b>你好，我是小林（xiaolin）。</b><br>软件工程专业在读，把「要不试试」写成真正能用的作品。</p>
 
 <p align="center">
   <a href="https://xiaolinyx.me/"><b>走进我的个人网站 ↗</b></a> ·
@@ -17,17 +19,19 @@
 
 ## 为什么加入 Pieces Lab
 
-我想在这里分享自己的 AI 应用与软件项目，认识同样喜欢动手创作的人。作品从想法到可用版本总会经历不少调整；我希望把这些过程和成果放在一起，也从社区的交流中学到新的做法。
+我加入 Pieces Lab，想让自己的项目被更多喜欢创作的人看到，也想认识愿意认真讨论产品、设计和代码的朋友。一个作品从想法走到可用版本，总会遇到取舍和返工；我愿意把成果与过程都分享出来，和社区一起交流这些真实经验。
 
 ## 我的初心
 
-我喜欢先问一个问题：这件事能不能做成真正有人愿意使用的工具？从数字人对话、英语口语练习到个人记账和学习工作台，我尝试把设计、代码与具体场景连接起来。这个作品集会继续记录作品的进展，也保留探索中的想法。
+最初吸引我动手的，是一个个「能不能把它做出来」的问题。学到新技术时，我更想找个具体场景试一试：数字人能否把对话变得自然，英语练习能否给出有用的反馈，记账和备考工具能否真的融入每天的生活。
+
+我喜欢从一个小版本开始，边做边发现哪里不够好，再继续改。AI 让尝试变得更快，但理解需求、打磨体验和验证结果仍要自己完成。我希望保持这份好奇，也把工程基本功练扎实，做出有人愿意继续使用的作品。
 
 ## 关于我
 
-我是软件工程专业在读本科生，关注大模型应用、多模态交互和软件工程。目前主要使用 Python 与 TypeScript 做项目，也在学习后端开发、智能体工作流与软件测试。
+我是软件工程专业在读本科生，关注 AI 应用如何进入真实的软件流程。现在主要用 Python 和 TypeScript 做项目，涉及对话智能体、多模态交互、Web 应用与个人效率工具，也持续学习后端开发和软件测试。
 
-我维护 [Xiaolin OS](https://xiaolinyx.me/) 作为个人网站：这里有我的经历、作品、工具和想法。项目的功能与运行方式以各自的仓库说明为准。
+在 [Xiaolin OS](https://xiaolinyx.me/) 上，我把个人介绍、项目案例和学习中的想法整理成一个可以探索的空间。这个仓库则是作品索引：你可以从下面进入各个项目，查看源码、使用方式和最新进展。
 
 ## 个人网站 · Xiaolin OS
 
@@ -39,11 +43,15 @@
 
 ## 项目陈列室
 
+<a href="https://xiaolinyx.me/#chapters"><img src="assets/curious-world.png" alt="Xiaolin OS 奇妙世界页面：小林与环绕的项目卡片" width="100%"></a>
+
+这些项目从陪伴、学习到日常工具，记录了我把不同想法一步步做出来的尝试。
+
 | 项目 | 在做什么 | 方向 |
 | --- | --- | --- |
-| [数字心屿](https://github.com/linyuchao123/digital-human-companion) · [介绍](projects/digital-human-companion.md) | 结合数字人、文字与语音对话、心理学知识检索和用户可控的长期记忆。 | AI 数字人 |
+| [数字心屿](https://github.com/linyuchao123/digital-human-companion) · [在线体验 ↗](https://xiaolinyx.cloud/) · [介绍](projects/digital-human-companion.md) | 结合数字人、文字与语音对话、心理学知识检索和用户可控的长期记忆。 | AI 数字人 |
 | [AI 英语口语陪练](https://github.com/linyuchao123/AI-Spoken-English-Trainer) · [介绍](projects/ai-spoken-english-trainer.md) | 围绕面试、点餐、会议场景练习口语，提供发音评测、语法纠错与课后报告。 | AI 英语学习 |
-| [Xiaolinyx Mail](https://github.com/linyuchao123/xiaolinyx-mail) | 基于开源 Cloud Mail 与 Cloudflare 建立个人域名邮箱服务，支持收发邮件与多端使用。 | 邮箱服务 |
+| [Xiaolinyx Mail](https://github.com/linyuchao123/xiaolinyx-mail) · [在线体验 ↗](https://mail.xiaolinyx.me/) | 基于开源 Cloud Mail 与 Cloudflare 建立个人域名邮箱服务，支持收发邮件与多端使用。 | 邮箱服务 |
 | [Maptale](https://github.com/linyuchao123/Maptale) | 探索在地图上记录和分享故事。 | 地图叙事 |
 | [消费有迹 · iPhone 记账平台](https://github.com/linyuchao123/iphone-spending-dashboard) | 面向 iPhone 的消费记录与统计面板，支持账单导入、离线记录和跨设备同步。 | 个人记账 |
 | [六级词伴 · English CET-6](https://github.com/linyuchao123/English-CET-6) | 按高频词学习、掌握检测和薄弱词复习组织六级词汇练习。 | 英语学习 |
@@ -53,7 +61,9 @@
 
 ## 学习与记录
 
-我会把项目的设计取舍、使用方式和当前限制写在各自的仓库中。[GitHub 个人主页](https://github.com/linyuchao123)也持续更新我的项目经历与技术方向。
+我希望留下的不只是成品，也包括项目怎样被设计、验证和继续改进。想了解过程，可以从 [Xiaolin OS 的制作记录](https://github.com/linyuchao123/xiaolin-os/tree/main/docs)、[数字心屿的系统完成度审计](https://github.com/linyuchao123/digital-human-companion/blob/main/docs/system-completion-audit-2026-09-22.md)和[研途的架构文档](https://github.com/linyuchao123/Kaoyan-Agent-Workbench/blob/main/docs/architecture.md)开始。
+
+我的实践顺序通常是：**找到真实场景 → 做出能用的版本 → 检查边界与体验 → 继续迭代**。
 
 ## 技术与工具
 
@@ -67,16 +77,22 @@
 
 - 个人网站：[xiaolinyx.me](https://xiaolinyx.me/)
 - GitHub：[@linyuchao123](https://github.com/linyuchao123)
-- 邮箱：[476638303@qq.com](mailto:476638303@qq.com)
+- QQ 邮箱：[476638303@qq.com](mailto:476638303@qq.com)
+- Gmail：[lyc2416455041@gmail.com](mailto:lyc2416455041@gmail.com)
+- X / Twitter：[@xiaolinyx123](https://x.com/xiaolinyx123)
+- Telegram：[@xiaolinyx123](https://t.me/xiaolinyx123)
+- 微信：[个人微信二维码](https://xiaolinyx.me/contact/wechat-personal.jpeg) · [微信公众号二维码](https://xiaolinyx.me/contact/wechat-channel.jpeg)
 - 社区：[Pieces Lab](https://github.com/Pieces-lab)
 
 <details>
 <summary><b>关于这个作品集仓库</b></summary>
 
-这是我在 Pieces Lab 的个人展示空间。网站程序、项目代码与最新功能以对应仓库为准；两张个人网站截图由我提供，素材说明见 [ATTRIBUTION.md](ATTRIBUTION.md)。
+这是我在 Pieces Lab 的个人展示空间。网站程序、项目代码与最新功能以对应仓库为准；海报与网站截图的素材说明见 [ATTRIBUTION.md](ATTRIBUTION.md)。
 
 </details>
 
 ---
+
+<p align="center"><a href="https://xiaolinyx.me/#outro"><img src="assets/closing-message.png" alt="Xiaolin OS 结尾页面：有想法，就去做，我们都会闪闪发光" width="100%"></a></p>
 
 <p align="center"><b>让想法长成作品，让作品继续生长。</b><br><sub>XIAOLIN / A PERSONAL COLLECTION · PIECES LAB</sub></p>
